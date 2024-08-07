@@ -1,1 +1,1 @@
-# MNIST-dataset-mode
+# MNIST-dataset-fully-connected-neural-network
